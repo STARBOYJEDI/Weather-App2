@@ -47,3 +47,29 @@
     font-weight: 700;
   src: url('C:\Mbuso\Computer Science\GitHub Projects\Weather App\Assets\fontsbricolage-grotesque-v9-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+
+:root {
+    --c-neutral-900: hsl(243, 96%, 9%);
+    --c-neutral-800: hsl(243, 27%, 20%);
+    --c-neutral-700: hsl(243, 23%, 24%);
+    --c-neutral-600: hsl(243, 23%, 30%);
+    --c-neutral-300: hsl(240, 6%, 70%);
+    --c-neutral-200: hsl(250, 6%, 84%);
+    --c-neutral-0: hsl(0, 0%, 100%);
+    --c-orange-500: hsl(28, 100%, 52%);
+    --c-blue-500: hsl(233, 67%, 56%);
+    --c-blue-700: hsl(248, 70%, 36%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
