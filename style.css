@@ -93,6 +93,10 @@
     --font-size-forecast-temp: var(--fs-16);
     --font-size-forecast-dropdown: var(--fs-16);
     --font-size-forecast-hour: var(--fs-20);
+
+    @media (width >= calc(700 / 16 * rem)) {
+        --font-size-dropdown: var(--fs-16);
+    }
 }
 
 *, 
